@@ -10,3 +10,8 @@ print(name + '는 ' + str(age) + '살 이며, ' + hobby + '을 아주 좋아해�
 print(name , '는 ' , age , '살 이며, ' , hobby + '을 아주 좋아해요') # ,로 이어 붙일시 str 메서드 제거 가능, 그러나 띄어쓰기 자동 추가
 
 print(name + '는 어른일까요? ' + str(is_adult))
+
+'''
+긴 주석 처리
+하는 방법
+'''
